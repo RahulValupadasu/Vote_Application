@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vote_Application</string>
+    <string-array name="candidate_drop_down">
+        <item>Candidate 1</item>
+        <item>Candidate 2</item>
+        <item>Candidate 3</item>
+        <item>Candidate 4</item>
+    </string-array>
+</resources>
